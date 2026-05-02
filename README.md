@@ -13,6 +13,7 @@
 ![](https://streak-stats.demolab.com/?user=Harshithk951&theme=github_dark&hide_border=true)<br/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Harshithk951&icon=0&color=00bfff)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Harshithk951&icon=0&color=FF6600)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
